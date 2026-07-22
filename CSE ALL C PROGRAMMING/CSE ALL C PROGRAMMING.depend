@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1784737006 source:d:\programming\c\cse all c programming\unit.c
+	<stdio.h>
+
+1784737376 source:d:\programming\c\cse all c programming\grade for 1000 student.c
+	<stdio.h>
+
+1784737209 source:d:\programming\c\cse all c programming\grade.c
+	<stdio.h>
+
+1784737599 source:d:\programming\c\cse all c programming\meadian with array.c
+	<stdio.h>
+
+1784737533 source:d:\programming\c\cse all c programming\mean with array.c
+	<stdio.h>
+
+1784737418 source:d:\programming\c\cse all c programming\mean.c
+	<stdio.h>
+
+1784737684 source:d:\programming\c\cse all c programming\standard deviation with array.c
+	<stdio.h>
+	<math.h>
+
+1784737119 source:d:\programming\c\cse all c programming\temperature.c
+	<stdio.h>
+
